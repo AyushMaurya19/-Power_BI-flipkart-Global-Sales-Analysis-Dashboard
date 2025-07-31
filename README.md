@@ -74,5 +74,22 @@
 
 
 **Dashboard Snaphots**<br>
-Page 1 
-![Dashboard](https://github.com/AyushMaurya19/-Power_BI-flipkart-Global-Sales-Analysis-Dashboard/blob/main/flipkart%20home%20.png)
+
+**Page 1 📸 (Home)**<br>
+![Dashboard](https://github.com/AyushMaurya19/-Power_BI-flipkart-Global-Sales-Analysis-Dashboard/blob/main/flipkart%20home%20.png)<br>
+
+**Page 2 📸(Overview)**<br>
+![Dashboard](https://github.com/AyushMaurya19/-Power_BI-flipkart-Global-Sales-Analysis-Dashboard/blob/main/Flipkart%20overview%20.png)<br>
+
+**Page 3 📸 (Region and Market)**<br>
+![Dashboard](https://github.com/AyushMaurya19/-Power_BI-flipkart-Global-Sales-Analysis-Dashboard/blob/main/Region%20and%20Market%20.png)<br>
+
+**Page 4 📸(Shipping Order and Priority)**<br>
+![Dashboard](https://github.com/AyushMaurya19/-Power_BI-flipkart-Global-Sales-Analysis-Dashboard/blob/main/Shipping%20and%20order%20priority.png)<br>
+
+**Page 5 📸(Customer and Segments )**<br>
+![Dashboard](https://github.com/AyushMaurya19/-Power_BI-flipkart-Global-Sales-Analysis-Dashboard/blob/main/Customer%20and%20segments%20.png)<br>
+
+**Page 6 📸(Products Performence)**<br>
+![Dashboard](https://github.com/AyushMaurya19/-Power_BI-flipkart-Global-Sales-Analysis-Dashboard/blob/main/Product%20Performence%20.png)<br>
+
