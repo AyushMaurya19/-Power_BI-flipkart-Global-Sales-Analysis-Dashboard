@@ -71,3 +71,8 @@
 3. Discounts over 30% significantly boost sales volume
 4. Top 10 products contribute to over 40% of total revenue
 5. Mobile accessories have high unit sales but lower revenue per unit
+
+
+**Dashboard Snaphots**<br>
+Page 1 
+![Dashboard](https://github.com/AyushMaurya19/-Power_BI-flipkart-Global-Sales-Analysis-Dashboard/blob/main/flipkart%20home%20.png)
